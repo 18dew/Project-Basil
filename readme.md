@@ -31,6 +31,9 @@ Following are the reasons to decentralize the vulnerability feed management.
  - Release a Vulnerability
  Current version is a simple version of the contract however far more detailed DAPP for Vulnerability Feed is possible.
 
+##Usage
+ - Currently UI has not been made but contract is interactive via web3 console and can be deployed using scripts kept in [Test_Script](https://github.com/18dew/Algorythmix/tree/master/Test_work)
+
 ## Future work
   - To add CVSS type scoring mechanism.
   - To add various other methods of Security intelligence like MAEC etc on the decentralized world.
